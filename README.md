@@ -1,2 +1,2 @@
-# NRO
-Napredna računalniška orodja
+Ambrož Tacar
+23221102
